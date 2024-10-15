@@ -14,8 +14,6 @@ namespace PersonsInfo
             }
             try
             {
-
-
                 List<Person> persons = new();
                 for (int i = 0; i < lines; i++)
                 {
@@ -37,7 +35,6 @@ namespace PersonsInfo
             {
                 Console.WriteLine(ex.Message);
             }
-
         }
     }
 }
