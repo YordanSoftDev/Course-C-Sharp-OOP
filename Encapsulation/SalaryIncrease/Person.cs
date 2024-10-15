@@ -24,7 +24,7 @@ namespace SalaryIncrease
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for First name");
+                    throw new ArgumentException("Invalid data for First Name");
 
                 firstName = value;
             }
@@ -35,7 +35,7 @@ namespace SalaryIncrease
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for Last name");
+                    throw new ArgumentException("Invalid data for Last Name");
 
                 lastName = value;
             }
