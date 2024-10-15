@@ -20,7 +20,7 @@ namespace PersonsInfo
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for First name");
+                    throw new ArgumentException("Invalid data for First Name");
 
                 firstName = value;
             }
@@ -31,7 +31,7 @@ namespace PersonsInfo
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for Last name");
+                    throw new ArgumentException("Invalid data for Last Name");
 
                 lastName = value;
             }
@@ -42,7 +42,7 @@ namespace PersonsInfo
             private set
             {
                 if (value <= 0)
-                    throw new ArgumentException("Invalid data for age");
+                    throw new ArgumentException("Invalid data for Age");
 
                 age = value;
             }
