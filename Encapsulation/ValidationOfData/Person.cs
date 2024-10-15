@@ -22,9 +22,9 @@ namespace PersonsInfo
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for First name");
+                    throw new ArgumentException("Invalid data for First Name");
                 else if (value.Length < 3)
-                    throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
+                    throw new ArgumentException("First Name cannot contain fewer than 3 symbols!");
 
                 firstName = value;
             }
@@ -35,9 +35,9 @@ namespace PersonsInfo
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid data for Last name");
+                    throw new ArgumentException("Invalid data for Last Name");
                 else if (value.Length < 3)
-                    throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
+                    throw new ArgumentException("Last Name cannot contain fewer than 3 symbols!");
                 
 
                 lastName = value;
