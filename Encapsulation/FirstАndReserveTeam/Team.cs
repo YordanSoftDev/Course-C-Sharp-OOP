@@ -21,7 +21,7 @@ namespace PersonsInfo
             private set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentException("Invalid name");
+                    throw new ArgumentException("Invalid Name");
 
                 name = value;
             }
