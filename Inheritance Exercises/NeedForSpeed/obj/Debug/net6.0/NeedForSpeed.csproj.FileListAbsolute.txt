@@ -1,0 +1,14 @@
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Course C# OOP\InheritanceExercises\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

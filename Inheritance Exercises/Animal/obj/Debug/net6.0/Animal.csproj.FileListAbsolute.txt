@@ -1,0 +1,14 @@
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.AssemblyInfoInputs.cache
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.AssemblyInfo.cs
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.csproj.CoreCompileInputs.cache
+C:\Course C# OOP\InheritanceExercises\Animal\bin\Debug\net6.0\Animal.exe
+C:\Course C# OOP\InheritanceExercises\Animal\bin\Debug\net6.0\Animal.deps.json
+C:\Course C# OOP\InheritanceExercises\Animal\bin\Debug\net6.0\Animal.runtimeconfig.json
+C:\Course C# OOP\InheritanceExercises\Animal\bin\Debug\net6.0\Animal.dll
+C:\Course C# OOP\InheritanceExercises\Animal\bin\Debug\net6.0\Animal.pdb
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.dll
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\refint\Animal.dll
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.pdb
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\Animal.genruntimeconfig.cache
+C:\Course C# OOP\InheritanceExercises\Animal\obj\Debug\net6.0\ref\Animal.dll
