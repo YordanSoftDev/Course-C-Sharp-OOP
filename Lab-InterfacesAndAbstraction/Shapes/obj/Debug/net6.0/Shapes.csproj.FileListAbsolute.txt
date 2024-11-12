@@ -1,0 +1,14 @@
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+C:\Course C# OOP\Lab-InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll

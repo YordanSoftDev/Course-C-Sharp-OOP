@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\\u043Codels\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\\u043Codels\\interfaces\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|c:\\course c# oop\\lab-interfacesandabstraction\\shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40AE14A4-C02D-4E0F-962C-52B0C65F0019}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shapes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:05:36.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shapes.csproj",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
+              "RelativeDocumentMoniker": "Shapes\\Shapes.csproj",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Shapes.csproj",
+              "RelativeToolTip": "Shapes\\Shapes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T15:30:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\StartUp.cs",
+              "RelativeDocumentMoniker": "Shapes\\StartUp.cs",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\StartUp.cs",
+              "RelativeToolTip": "Shapes\\StartUp.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:25:19.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\\u041Codels\\Interfaces\\IDrawable.cs",
+              "RelativeDocumentMoniker": "Shapes\\\u041Codels\\Interfaces\\IDrawable.cs",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\\u041Codels\\Interfaces\\IDrawable.cs",
+              "RelativeToolTip": "Shapes\\\u041Codels\\Interfaces\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:44:59.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:43:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Course C# OOP\\Lab-InterfacesAndAbstraction\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:42:36.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
