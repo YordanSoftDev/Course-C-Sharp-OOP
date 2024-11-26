@@ -11,7 +11,7 @@ namespace FoodShortage.Мodels
         private const int InitialFood = 0;
         private const int DefaultValueIncreasingFood = 5;
 
-        public Rebel(string name, int age, string group)
+        public Rebel(string name, int age, string group) 
         {
             this.Name = name;
             this.Age = age;
