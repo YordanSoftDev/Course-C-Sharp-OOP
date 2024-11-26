@@ -1,0 +1,14 @@
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\bin\Debug\net6.0\BorderControl.exe
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\bin\Debug\net6.0\BorderControl.deps.json
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\bin\Debug\net6.0\BorderControl.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\bin\Debug\net6.0\BorderControl.pdb
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.pdb
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BorderControl\obj\Debug\net6.0\ref\BorderControl.dll

@@ -1,0 +1,4 @@
+C:\Course C# OOP\InterfacesAndAbstractionExercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\InterfacesAndAbstractionExercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfoInputs.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.AssemblyInfo.cs
+C:\Course C# OOP\InterfacesAndAbstractionExercises\Multiple Implementation\obj\Debug\net6.0\Multiple Implementation.csproj.CoreCompileInputs.cache

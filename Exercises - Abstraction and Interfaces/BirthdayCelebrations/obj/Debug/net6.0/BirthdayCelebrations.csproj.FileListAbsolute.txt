@@ -1,0 +1,14 @@
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\refint\BirthdayCelebrations.dll
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache
+C:\Course C# OOP\InterfacesAndAbstractionExercises\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll
