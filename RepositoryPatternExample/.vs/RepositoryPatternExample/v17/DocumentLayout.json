@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Course C# OOP\\RepositoryPatternExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03FE449F-F989-4866-911C-C02969AF88F9}|RepositoryPattern\\RepositoryPattern.csproj|c:\\course c# oop\\repositorypatternexample\\repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FE449F-F989-4866-911C-C02969AF88F9}|RepositoryPattern\\RepositoryPattern.csproj|solutionrelative:repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FE449F-F989-4866-911C-C02969AF88F9}|RepositoryPattern\\RepositoryPattern.csproj|c:\\course c# oop\\repositorypatternexample\\repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FE449F-F989-4866-911C-C02969AF88F9}|RepositoryPattern\\RepositoryPattern.csproj|solutionrelative:repositorypattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\RepositoryPatternExample\\RepositoryPattern\\IRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern\\IRepository.cs",
+              "ToolTip": "C:\\Course C# OOP\\RepositoryPatternExample\\RepositoryPattern\\IRepository.cs",
+              "RelativeToolTip": "RepositoryPattern\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:13:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Course C# OOP\\RepositoryPatternExample\\RepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryPattern\\Program.cs",
+              "ToolTip": "C:\\Course C# OOP\\RepositoryPatternExample\\RepositoryPattern\\Program.cs",
+              "RelativeToolTip": "RepositoryPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:12:23.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
