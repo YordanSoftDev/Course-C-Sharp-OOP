@@ -2,6 +2,6 @@
 {
     public interface IReportService
     {
-        public string ApplicationReport();
+        public string ApplicationReport(); 
     }
 }

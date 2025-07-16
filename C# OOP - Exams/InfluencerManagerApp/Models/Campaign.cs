@@ -8,7 +8,7 @@ namespace InfluencerManagerApp.Models
     {
         private string brand;
         private double budget;
-        private readonly List<string> contributors;
+        private readonly List<string> contributors; 
 
         protected Campaign(string brand, double budget)
         {

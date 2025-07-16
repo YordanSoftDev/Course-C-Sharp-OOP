@@ -8,7 +8,7 @@
         public const string InfluencerRegisteredSuccessfully = "{0} registered successfully to the application.";
 
         //BeginCampaign
-        public const string CampaignTypeIsNotValid = "{0} is not a valid campaign in the application.";
+        public const string CampaignTypeIsNotValid = "{0} is not a valid campaign in the application."; 
         public const string CampaignDuplicated = "{0} campaign cannot be duplicated.";
         public const string CampaignStartedSuccessfully = "{0} started a {1}.";
 

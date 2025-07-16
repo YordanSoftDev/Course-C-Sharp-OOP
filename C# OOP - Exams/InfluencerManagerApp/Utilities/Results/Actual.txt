@@ -4,7 +4,7 @@ TravelVirtu registered successfully to the application.
 MarketPPMaven registered successfully to the application.
 StyleIcon registered successfully to the application.
 ReligionInfluencer has not passed validation.
-TravelVirtu is already registered in InfluencerRepository.
+TravelVirtu is already registered in InfluencerRepository. 
 Nike started a ProductCampaign.
 FoodPanda started a ServiceCampaign.
 Nike campaign cannot be duplicated.

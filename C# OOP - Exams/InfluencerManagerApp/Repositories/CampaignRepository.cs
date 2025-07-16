@@ -11,7 +11,7 @@ namespace InfluencerManagerApp.Repositories
     {
         private readonly List<ICampaign> campaigns;
 
-        public CampaignRepository()
+        public CampaignRepository() 
         {
             this.campaigns = new List<ICampaign>();
         }

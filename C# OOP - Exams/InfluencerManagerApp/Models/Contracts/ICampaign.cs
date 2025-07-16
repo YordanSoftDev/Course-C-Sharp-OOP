@@ -9,7 +9,7 @@ namespace InfluencerManagerApp.Models.Contracts
 
         public double Budget { get; }
 
-        public IReadOnlyCollection<string> Contributors { get; }
+        public IReadOnlyCollection<string> Contributors { get; } 
 
         public void Gain(double amount);
 

@@ -14,7 +14,7 @@ namespace InfluencerManagerApp.Services
         private readonly IRepository<IInfluencer> influencers;
         private readonly IRepository<ICampaign> campaigns;
 
-        public InfluencerService(IRepository<IInfluencer> influencers, IRepository<ICampaign> campaigns)
+        public InfluencerService(IRepository<IInfluencer> influencers, IRepository<ICampaign> campaigns) 
         {
             this.influencers = influencers;
             this.campaigns = campaigns;

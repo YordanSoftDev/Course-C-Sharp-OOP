@@ -7,7 +7,7 @@ namespace InfluencerManagerApp.Repositories.Contracts
 {
     public interface IRepository<T> where T : class
     {
-        public ReadOnlyCollection<T> Models { get; }
+        public ReadOnlyCollection<T> Models { get; } 
 
         public void AddModel(T model);
 

@@ -10,7 +10,7 @@ namespace InfluencerManagerApp.Repositories
 {
     public class InfluencerRepository : IRepository<IInfluencer>
     {
-        private readonly List<IInfluencer> influencers;
+        private readonly List<IInfluencer> influencers; 
         public InfluencerRepository()
         {
             this.influencers = new();

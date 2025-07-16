@@ -9,7 +9,7 @@ namespace InfluencerManagerApp.Models.Contracts
 
         public int Followers { get; }
 
-        public double EngagementRate { get; }
+        public double EngagementRate { get; } 
 
         public double Income { get; }
 
