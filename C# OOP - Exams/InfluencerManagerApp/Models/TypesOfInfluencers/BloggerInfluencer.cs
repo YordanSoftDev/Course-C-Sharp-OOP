@@ -14,7 +14,7 @@ namespace InfluencerManagerApp.Models.TypesOfInfluencers
             followers, fixedEngagementRate)
         {
 
-        }
+        } 
         public override int CalculateCampaignPrice()
         {
             double price = this.Followers * this.EngagementRate * factor;
