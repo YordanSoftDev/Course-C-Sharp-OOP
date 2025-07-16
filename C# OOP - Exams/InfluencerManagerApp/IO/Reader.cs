@@ -6,6 +6,6 @@ namespace InfluencerManagerApp.IO
 {
     public class Reader : IReader
     {
-        public string ReadLine() => Console.ReadLine();
+        public string ReadLine() => Console.ReadLine(); 
     }
 }
