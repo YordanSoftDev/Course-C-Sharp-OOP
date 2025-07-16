@@ -9,7 +9,7 @@ namespace InfluencerManagerApp.Models
     public abstract class Influencer : IInfluencer
     {
         private string username;
-        protected int followers;
+        protected int followers; 
         private double income;
         private double engagementRate;
         private readonly List<string> participations;
