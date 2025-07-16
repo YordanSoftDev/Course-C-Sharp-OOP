@@ -6,7 +6,7 @@ namespace InfluencerManagerApp.Core
     public class Controller : IController
     {
         private readonly ICampaignService campaignService;
-        private readonly IInfluencerService influencerService;
+        private readonly IInfluencerService influencerService; 
         private readonly IReportService reportService;
 
         public Controller(ICampaignService campaignService, 
