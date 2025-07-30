@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfluencerManagerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d5216741739a143d6f8cc1e7bac744ca472591e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfluencerManagerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfluencerManagerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

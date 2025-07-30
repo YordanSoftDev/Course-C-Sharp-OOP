@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Course C# OOP\\RegularExam–06April2024\\InfluencerManagerApp\\InfluencerManagerApp.csproj": {}
+    "C:\\Users\\mryor\\OneDrive\\Documents\\GitHub\\Course-C-Sharp-OOP\\C# OOP - Exams\\InfluencerManagerApp\\InfluencerManagerApp.csproj": {}
   },
   "projects": {
-    "C:\\Course C# OOP\\RegularExam–06April2024\\InfluencerManagerApp\\InfluencerManagerApp.csproj": {
+    "C:\\Users\\mryor\\OneDrive\\Documents\\GitHub\\Course-C-Sharp-OOP\\C# OOP - Exams\\InfluencerManagerApp\\InfluencerManagerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Course C# OOP\\RegularExam–06April2024\\InfluencerManagerApp\\InfluencerManagerApp.csproj",
+        "projectUniqueName": "C:\\Users\\mryor\\OneDrive\\Documents\\GitHub\\Course-C-Sharp-OOP\\C# OOP - Exams\\InfluencerManagerApp\\InfluencerManagerApp.csproj",
         "projectName": "InfluencerManagerApp",
-        "projectPath": "C:\\Course C# OOP\\RegularExam–06April2024\\InfluencerManagerApp\\InfluencerManagerApp.csproj",
+        "projectPath": "C:\\Users\\mryor\\OneDrive\\Documents\\GitHub\\Course-C-Sharp-OOP\\C# OOP - Exams\\InfluencerManagerApp\\InfluencerManagerApp.csproj",
         "packagesPath": "C:\\Users\\mryor\\.nuget\\packages\\",
-        "outputPath": "C:\\Course C# OOP\\RegularExam–06April2024\\InfluencerManagerApp\\obj\\",
+        "outputPath": "C:\\Users\\mryor\\OneDrive\\Documents\\GitHub\\Course-C-Sharp-OOP\\C# OOP - Exams\\InfluencerManagerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
